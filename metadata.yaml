@@ -1,0 +1,25 @@
+_repo: Finding-the-Lost-Treasure_43937
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43937-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Persons, Helen M.
+    gutenberg_agent_id: '42487'
+    url: http://www.gutenberg.org/2009/agents/42487
+description: ''
+gutenberg_issued: '2013-10-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43937'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mystery fiction'
+- !lcsh 'Inheritance and succession -- Juvenile fiction'
+- !lcc 'PZ'
+title: Finding the Lost Treasure
+url: http://www.gutenberg.org/ebooks/43937
